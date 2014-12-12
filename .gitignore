@@ -1,0 +1,14 @@
+
+*.aux
+
+*.toc
+
+*.log
+
+*.bst
+
+*.bak~
+
+*.pdf
+
+*.out
